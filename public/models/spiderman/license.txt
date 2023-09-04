@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spider-Man - Hybrid Suit
+* source:	https://sketchfab.com/3d-models/spider-man-hybrid-suit-b249aed3129d4f8a8959c8e252dd54ce
+* author:	Jako (https://sketchfab.com/fairlight51)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spider-Man - Hybrid Suit" (https://sketchfab.com/3d-models/spider-man-hybrid-suit-b249aed3129d4f8a8959c8e252dd54ce) by Jako (https://sketchfab.com/fairlight51) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
