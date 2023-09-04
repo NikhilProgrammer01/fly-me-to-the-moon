@@ -13,6 +13,7 @@ Welcome to the Moon 3D website project! This project uses Three.js to create an 
 ## Demo
 
 You can see a live demo of the Moon 3D website [here](https://64f57a98b281280ed97d44a3--shimmering-druid-3113be.netlify.app/).
+it might take few sec to load 
 
 
 
